@@ -16,8 +16,8 @@ Acqusition data was edited in Google Sheets, including the following changes:
 
  
 ### Tools Used
-https://jupyter.org
-https://colab.research.google.com/notebooks/intro.ipynb
-https://pandas.pydata.org
-https://numpy.org
-https://matplotlib.org
+- https://jupyter.org
+- https://colab.research.google.com/notebooks/intro.ipynb
+- https://pandas.pydata.org
+- https://numpy.org
+- https://matplotlib.org
