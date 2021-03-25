@@ -1,129 +1,129 @@
-AcquisitionID,Date,Company,Business,Country,Value (USD),Derived products,ParentCompany
-ACQ349,2/6/2013,Channel Intelligence,Product ecommerce,USA,125000000,Google Shopping,Google
-ACQ346,2/28/2013,Atlas Solutions,Atlas advertiser suite,USA,,,Facebook
-ACQ345,3/1/2013,osmeta,Mobile software,USA,,,Facebook
-ACQ343,3/12/2013,DNNresearch Inc.,Deep Neural Networks,CAN,,"Google, X",Google
-ACQ342,3/14/2013,Hot Studio,Design agency,USA,,,Facebook
-ACQ341,3/15/2013,Talaria Technologies,Cloud computing,USA,,Google Cloud,Google
-ACQ336,4/12/2013,Behavio,Social Prediction,USA,,Google Now,Google
-ACQ333,4/23/2013,Spaceport,Cross-platform game framework,USA,,,Facebook
-ACQ334,4/23/2013,Wavii,Natural Language Processing,USA,30000000,Google Knowledge Graph,Google
-ACQ332,4/25/2013,Parse,Mobile app backends,USA,85000000,,Facebook
-ACQ324,5/23/2013,Makani Power,Airborne wind turbines,USA,,X,Google
-ACQ320,6/11/2013,Waze,GPS navigation software,ISR,966000000,"Google Maps , Waze",Google
-ACQ312,7/18/2013,Monoidics,Automatic verification software,UK,,,Facebook
-ACQ305,8/12/2013,Jibbigo,Speech translation app,USA,,,Facebook
-ACQ295,9/16/2013,Bump,Mobile software,USA,,Google Photos,Google
-ACQ291,10/2/2013,Flutter,Gesture recognition technology,USA,40000000,"Google, Android, X",Google
-ACQ286,10/13/2013,Onavo,Mobile analytics and Israel Facebook Headquarters Office,ISR,,,Facebook
-ACQ285,10/22/2013,FlexyCore,DroidBooster App for Android,FRA,23000000,Android,Google
-ACQ279,12/2/2013,"SCHAFT, Inc.","Robotics, humanoid robots",JPN,,X,Google
-ACQ276,12/3/2013,Industrial Perception,"Robotic arms, computer vision",USA,,X,Google
-ACQ274,12/4/2013,Redwood Robotics,Robotic arms,USA,,X,Google
-ACQ273,12/5/2013,Meka Robotics,Robots,USA,,X,Google
-ACQ272,12/6/2013,Holomni,Robotic wheels,USA,,X,Google
-ACQ270,12/7/2013,Bot & Dolly,Robotic cameras,USA,,X,Google
-ACQ269,12/8/2013,Autofuss,Ads and Design,USA,,X,Google
-ACQ267,12/17/2013,SportStream,Sports conversation analysis,USA,,,Facebook
-ACQ261,1/4/2014,Bitspin,Timely App for Android,CHE,,Android,Google
-ACQ257,1/8/2014,Little Eye Labs,Performance analysis and monitoring tools for Android,IND,15000000,,Facebook
-ACQ255,1/13/2014,Branch,Web conversation platform,USA,15000000,,Facebook
-ACQ256,1/13/2014,Nest Labs,Home automation,USA,3200000000,Nest Labs,Google
-ACQ254,1/15/2014,Impermium,Internet security,USA,,Project Zero (Google),Google
-ACQ251,1/26/2014,DeepMind Technologies,Artificial intelligence,UK,625000000,Google DeepMind,Google
-ACQ246,2/16/2014,SlickLogin,Internet Security,ISR,,Project Zero (Google),Google
-ACQ245,2/19/2014,WhatsApp,Mobile messaging,USA,19000000000,,Facebook
-ACQ244,2/21/2014,spider.io,Anti-click fraud,UK,,"DoubleClick, Adsense",Google
-ACQ240,3/12/2014,GreenThrottle,Gadgets,USA,,Android,Google
-ACQ239,3/25/2014,Oculus VR,Virtual reality technology,USA,2000000000,,Facebook
-ACQ238,3/27/2014,Ascenta,High-altitude UAVs,UK,20000000,,Facebook
-ACQ233,4/14/2014,Titan Aerospace,High-altitude UAVs,USA,,Project Loon,Google
-ACQ231,4/24/2014,ProtoGeo Oy,Fitness tracking app Moves,FIN,,,Facebook
-ACQ228,5/2/2014,Rangespan,E-commerce,UK,,Google Shopping,Google
-ACQ226,5/6/2014,Adometry,Online advertising attribution,USA,,Google Analytics AdSense,Google
-ACQ225,5/7/2014,MyEnergy,Online energy usage monitoring,USA,,Nest Labs,Google
-ACQ224,5/7/2014,Stackdriver,Cloud computing,USA,,Google Cloud Platform,Google
-ACQ223,5/7/2014,Appetas,Restaurant website creation,USA,,Google My Business,Google
-ACQ221,5/16/2014,Quest Visual,Augmented reality,USA,,Google Translate,Google
-ACQ220,5/19/2014,Divide,Mobile device management,USA,,Android for Work,Google
-ACQ216,6/10/2014,Skybox Imaging,Satellite,USA,500000000,"Google Maps, Project Loon",Google
-ACQ214,6/19/2014,Alpental Technologies,Wireless,USA,,Google,Google
-ACQ213,6/19/2014,mDialog,Online advertising,CAN,,DoubleClick,Google
-ACQ211,6/20/2014,Dropcam,Home monitoring,USA,555000000,Nest Labs,Google
-ACQ210,6/25/2014,Appurify,Automated application testing,USA,,Android,Google
-ACQ207,7/1/2014,Songza,Music streaming,USA,,"Google Play, Android TV",Google
-ACQ201,7/23/2014,drawElements,Graphics compatibility testing,FIN,,Android,Google
-ACQ195,8/6/2014,Director,Mobile video,USA,,"YouTube, Android",Google
-ACQ194,8/6/2014,Emu,IM client,USA,,"Google Hangouts, Google Now",Google
-ACQ193,8/7/2014,PrivateCore,Secure Server Technology,USA,,,Facebook
-ACQ191,8/14/2014,LiveRail,Publisher Monetization Platform,USA,,,Facebook
-ACQ189,8/17/2014,Jetpac,"Artificial intelligence, image recognition",USA,,Picasa,Google
-ACQ188,8/23/2014,Gecko Design,Mechanical design,USA,,X,Google
-ACQ186,8/26/2014,WaveGroup Sound,Sound Studio,USA,,,Facebook
-ACQ187,8/26/2014,Zync Render,Cloud-based visual effects software,USA,,Google Cloud Platform,Google
-ACQ184,9/10/2014,Lift Labs,Liftware,USA,,Verily,Google
-ACQ183,9/11/2014,Polar,Social polling,USA,,Google+,Google
-ACQ179,10/21/2014,Firebase,Data synchronization,USA,,Google Cloud Platform,Google
-ACQ178,10/23/2014,Dark Blue Labs & Vision Factory,Artificial intelligence,UK,,Google DeepMind,Google
-ACQ177,10/24/2014,Revolv,Home automation,USA,,Nest Labs,Google
-ACQ172,11/19/2014,RelativeWave,Mobile software prototyping,USA,,Android,Google
-ACQ167,12/17/2014,Vidmaker,Video editing,USA,,YouTube,Google
-ACQ165,1/6/2015,Wit.ai,Speech recognition,USA,,,Facebook
-ACQ164,1/8/2015,Quickfire Networks,Video Compression,USA,,,Facebook
-ACQ158,2/4/2015,Launchpad Toys,Child-friendly apps,USA,,YouTube for Kids,Google
-ACQ157,2/8/2015,Odysee,Multimedia sharing and storage,USA,,Google+,Google
-ACQ154,2/23/2015,Softcard,Mobile payments,USA,,Android Pay,Google
-ACQ153,2/24/2015,Red Hot Labs,App advertising and discovery,USA,,Google Play,Google
-ACQ150,3/14/2015,"TheFind, Inc.",Ecommerce,USA,,,Facebook
-ACQ140,4/16/2015,Skillman & Hackett,Virtual reality software,USA,,Tilt Brush,Google
-ACQ139,4/16/2015,Thrive Audio,Surround sound technology,IRL,,Google Cardboard,Google
-ACQ136,5/4/2015,Timeful,Mobile software,USA,,"Google Inbox, Google Calendar",Google
-ACQ135,5/26/2015,Surreal Vision,"Computer vision, augmented reality",UK,,,Facebook
-ACQ134,5/28/2015,Pulse.io,Mobile app optimizer,USA,,Android,Google
-ACQ129,6/18/2015,Agawi,Mobile application streaming,USA,,"Android, Google Play",Google
-ACQ127,7/16/2015,Pebbles,"Computer vision, augmented reality",ISR,60000000,,Facebook
-ACQ125,7/21/2015,Pixate,Mobile software prototyping,USA,,Android,Google
-ACQ114,9/21/2015,Oyster,E-book subscriptions,USA,,Google Play Books,Google
-ACQ111,9/30/2015,Jibe Mobile,Rich Communication Services,USA,,Android,Google
-ACQ109,10/3/2015,Endaga,Rural communications,USA,,,Facebook
-ACQ108,10/17/2015,Digisfera,360-degree photography,POR,,Street View,Google
-ACQ99,11/11/2015,bebop,Cloud software,USA,380000000,Google Cloud Platform,Google
-ACQ98,11/11/2015,Fly Labs,Video editing,USA,,Google Photos,Google
-ACQ82,2/12/2016,BandPage,Platform for musicians,USA,,YouTube,Google
-ACQ81,2/18/2016,Pie,Enterprise communications,SGP,,Spaces (app),Google
-ACQ77,3/9/2016,MSQRD (Masquerade),Visual effects (Face-swapping),BLR,,,Facebook
-ACQ73,5/2/2016,Synergyse,Interactive tutorials,CAN,,Google Docs,Google
-ACQ71,5/23/2016,Two Big Ears,Spatial Audio,UK,,,Facebook
-ACQ68,6/22/2016,Webpass,Internet service provider,USA,,Google Fiber,Google
-ACQ67,7/6/2016,Moodstocks,Image recognition,FRA,,Google Photos,Google
-ACQ66,7/8/2016,Anvato,Cloud-based video services,USA,,Google Cloud Platform,Google
-ACQ65,7/12/2016,Kifi,Link management,USA,,Spaces (app),Google
-ACQ64,7/27/2016,LaunchKit,Mobile tool maker,USA,,Android,Google
-ACQ61,8/8/2016,Orbitera,Cloud software,USA,100000000,Google Cloud Platform,Google
-ACQ58,9/8/2016,Apigee,API management and predictive analytics,USA,625000000,Google Cloud Platform,Google
-ACQ57,9/15/2016,Urban Engines,Location-based analytics,USA,,Google Maps,Google
-ACQ55,9/19/2016,Nascent Objects,Modular Electronics,USA,,,Facebook
-ACQ56,9/19/2016,API.AI,Natural language processing,USA,,Google Assistant,Google
-ACQ52,10/10/2016,Infiniled,Oculus VR,IRL,,,Facebook
-ACQ51,10/11/2016,FameBit,Branded content,,,YouTube,Google
-ACQ50,10/24/2016,Eyefluence,"Eye tracking, virtual reality",,,Google VR,Google
-ACQ48,11/5/2016,LeapDroid,Android Emulator,USA,,Android,Google
-ACQ47,11/11/2016,CrowdTangle,Publisher analytics,USA,,,Facebook
-ACQ46,11/16/2016,Faciometrics,"Computer Vision, Machine Learning",USA,,,Facebook
-ACQ45,11/21/2016,Qwiklabs,Cloud based hands-on training platform,,,Google Cloud Platform,Google
-ACQ41,12/13/2016,Cronologics,Smartwatches,USA,,Android Wear,Google
-ACQ40,1/5/2017,Limes Audio,Voice communication,SWE,,"Google Duo, Google Hangouts",Google
-ACQ37,1/19/2017,Fabric,Crash analytics,USA,,Firebase,Google
-ACQ35,3/8/2017,Kaggle,Data science,USA,,Google Cloud Platform,Google
-ACQ34,3/9/2017,AppBridge,Productivity suite,USA,,Google Docs,Google
-ACQ29,5/10/2017,Owlchemy Labs,Virtual reality studio,USA,,Google VR,Google
-ACQ23,7/12/2017,Halli Labs,Artificial intelligence,IND,,,Google
-ACQ22,7/31/2017,Ozlo,Artificial Intelligence,USA,,Messenger,Facebook
-ACQ20,8/16/2017,AIMatter,Computer vision,BLR,,YouTube,Google
-ACQ19,9/21/2017,HTC (portions),Talent and intellectual property licenses,TWN,1100000000,Google Pixel,Google
-ACQ17,9/26/2017,Bitium,Single sign-on and identity management,USA,,Google Cloud Platform,Google
-ACQ11,10/9/2017,Relay Media,AMP converter,USA,,Accelerated Mobile Pages,Google
-ACQ10,10/11/2017,60db,Podcasts,USA,,Google Play Music,Google
-ACQ9,10/16/2017,tbh,Anonymous social media app,USA,,,Facebook
-ACQ5,1/23/2018,Confirm,Government Issued ID Verification Platform,USA,,,Facebook
-ACQ2,3/27/2018,Tenor,GIF image search,USA,,Google Images,Google
+date,acq_id,acquirer,acquiree,purchase_price
+2/6/2013,ACQ349,Google,Channel Intelligence,125000000
+2/28/2013,ACQ346,Facebook,Atlas Solutions,
+3/1/2013,ACQ345,Facebook,osmeta,
+3/12/2013,ACQ343,Google,DNNresearch Inc.,
+3/14/2013,ACQ342,Facebook,Hot Studio,
+3/15/2013,ACQ341,Google,Talaria Technologies,
+4/12/2013,ACQ336,Google,Behavio,
+4/23/2013,ACQ333,Facebook,Spaceport,
+4/23/2013,ACQ334,Google,Wavii,30000000
+4/25/2013,ACQ332,Facebook,Parse,85000000
+5/23/2013,ACQ324,Google,Makani Power,
+6/11/2013,ACQ320,Google,Waze,966000000
+7/18/2013,ACQ312,Facebook,Monoidics,
+8/12/2013,ACQ305,Facebook,Jibbigo,
+9/16/2013,ACQ295,Google,Bump,
+10/2/2013,ACQ291,Google,Flutter,40000000
+10/13/2013,ACQ286,Facebook,Onavo,
+10/22/2013,ACQ285,Google,FlexyCore,23000000
+12/2/2013,ACQ279,Google,"SCHAFT, Inc.",
+12/3/2013,ACQ276,Google,Industrial Perception,
+12/4/2013,ACQ274,Google,Redwood Robotics,
+12/5/2013,ACQ273,Google,Meka Robotics,
+12/6/2013,ACQ272,Google,Holomni,
+12/7/2013,ACQ270,Google,Bot & Dolly,
+12/8/2013,ACQ269,Google,Autofuss,
+12/17/2013,ACQ267,Facebook,SportStream,
+1/4/2014,ACQ261,Google,Bitspin,
+1/8/2014,ACQ257,Facebook,Little Eye Labs,15000000
+1/13/2014,ACQ255,Facebook,Branch,15000000
+1/13/2014,ACQ256,Google,Nest Labs,3200000000
+1/15/2014,ACQ254,Google,Impermium,
+1/26/2014,ACQ251,Google,DeepMind Technologies,625000000
+2/16/2014,ACQ246,Google,SlickLogin,
+2/19/2014,ACQ245,Facebook,WhatsApp,19000000000
+2/21/2014,ACQ244,Google,spider.io,
+3/12/2014,ACQ240,Google,GreenThrottle,
+3/25/2014,ACQ239,Facebook,Oculus VR,2000000000
+3/27/2014,ACQ238,Facebook,Ascenta,20000000
+4/14/2014,ACQ233,Google,Titan Aerospace,
+4/24/2014,ACQ231,Facebook,ProtoGeo Oy,
+5/2/2014,ACQ228,Google,Rangespan,
+5/6/2014,ACQ226,Google,Adometry,
+5/7/2014,ACQ225,Google,MyEnergy,
+5/7/2014,ACQ224,Google,Stackdriver,
+5/7/2014,ACQ223,Google,Appetas,
+5/16/2014,ACQ221,Google,Quest Visual,
+5/19/2014,ACQ220,Google,Divide,
+6/10/2014,ACQ216,Google,Skybox Imaging,500000000
+6/19/2014,ACQ214,Google,Alpental Technologies,
+6/19/2014,ACQ213,Google,mDialog,
+6/20/2014,ACQ211,Google,Dropcam,555000000
+6/25/2014,ACQ210,Google,Appurify,
+7/1/2014,ACQ207,Google,Songza,
+7/23/2014,ACQ201,Google,drawElements,
+8/6/2014,ACQ195,Google,Director,
+8/6/2014,ACQ194,Google,Emu,
+8/7/2014,ACQ193,Facebook,PrivateCore,
+8/14/2014,ACQ191,Facebook,LiveRail,
+8/17/2014,ACQ189,Google,Jetpac,
+8/23/2014,ACQ188,Google,Gecko Design,
+8/26/2014,ACQ186,Facebook,WaveGroup Sound,
+8/26/2014,ACQ187,Google,Zync Render,
+9/10/2014,ACQ184,Google,Lift Labs,
+9/11/2014,ACQ183,Google,Polar,
+10/21/2014,ACQ179,Google,Firebase,
+10/23/2014,ACQ178,Google,Dark Blue Labs & Vision Factory,
+10/24/2014,ACQ177,Google,Revolv,
+11/19/2014,ACQ172,Google,RelativeWave,
+12/17/2014,ACQ167,Google,Vidmaker,
+1/6/2015,ACQ165,Facebook,Wit.ai,
+1/8/2015,ACQ164,Facebook,Quickfire Networks,
+2/4/2015,ACQ158,Google,Launchpad Toys,
+2/8/2015,ACQ157,Google,Odysee,
+2/23/2015,ACQ154,Google,Softcard,
+2/24/2015,ACQ153,Google,Red Hot Labs,
+3/14/2015,ACQ150,Facebook,"TheFind, Inc.",
+4/16/2015,ACQ140,Google,Skillman & Hackett,
+4/16/2015,ACQ139,Google,Thrive Audio,
+5/4/2015,ACQ136,Google,Timeful,
+5/26/2015,ACQ135,Facebook,Surreal Vision,
+5/28/2015,ACQ134,Google,Pulse.io,
+6/18/2015,ACQ129,Google,Agawi,
+7/16/2015,ACQ127,Facebook,Pebbles,60000000
+7/21/2015,ACQ125,Google,Pixate,
+9/21/2015,ACQ114,Google,Oyster,
+9/30/2015,ACQ111,Google,Jibe Mobile,
+10/3/2015,ACQ109,Facebook,Endaga,
+10/17/2015,ACQ108,Google,Digisfera,
+11/11/2015,ACQ99,Google,bebop,380000000
+11/11/2015,ACQ98,Google,Fly Labs,
+2/12/2016,ACQ82,Google,BandPage,
+2/18/2016,ACQ81,Google,Pie,
+3/9/2016,ACQ77,Facebook,MSQRD (Masquerade),
+5/2/2016,ACQ73,Google,Synergyse,
+5/23/2016,ACQ71,Facebook,Two Big Ears,
+6/22/2016,ACQ68,Google,Webpass,
+7/6/2016,ACQ67,Google,Moodstocks,
+7/8/2016,ACQ66,Google,Anvato,
+7/12/2016,ACQ65,Google,Kifi,
+7/27/2016,ACQ64,Google,LaunchKit,
+8/8/2016,ACQ61,Google,Orbitera,100000000
+9/8/2016,ACQ58,Google,Apigee,625000000
+9/15/2016,ACQ57,Google,Urban Engines,
+9/19/2016,ACQ55,Facebook,Nascent Objects,
+9/19/2016,ACQ56,Google,API.AI,
+10/10/2016,ACQ52,Facebook,Infiniled,
+10/11/2016,ACQ51,Google,FameBit,
+10/24/2016,ACQ50,Google,Eyefluence,
+11/5/2016,ACQ48,Google,LeapDroid,
+11/11/2016,ACQ47,Facebook,CrowdTangle,
+11/16/2016,ACQ46,Facebook,Faciometrics,
+11/21/2016,ACQ45,Google,Qwiklabs,
+12/13/2016,ACQ41,Google,Cronologics,
+1/5/2017,ACQ40,Google,Limes Audio,
+1/19/2017,ACQ37,Google,Fabric,
+3/8/2017,ACQ35,Google,Kaggle,
+3/9/2017,ACQ34,Google,AppBridge,
+5/10/2017,ACQ29,Google,Owlchemy Labs,
+7/12/2017,ACQ23,Google,Halli Labs,
+7/31/2017,ACQ22,Facebook,Ozlo,
+8/16/2017,ACQ20,Google,AIMatter,
+9/21/2017,ACQ19,Google,HTC (portions),1100000000
+9/26/2017,ACQ17,Google,Bitium,
+10/9/2017,ACQ11,Google,Relay Media,
+10/11/2017,ACQ10,Google,60db,
+10/16/2017,ACQ9,Facebook,tbh,
+1/23/2018,ACQ5,Facebook,Confirm,
+3/27/2018,ACQ2,Google,Tenor,
