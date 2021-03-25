@@ -1,7 +1,12 @@
 # Sample Projects
 
-## [Jupyter Based Code Example](https://github.com/kuikala/DataSamples/blob/main/priceacq.ipynb)
+## Jupyter Based Code Example:   
+- [PDF of Output](https://github.com/kuikala/DataSamples/raw/main/priceacq.pdf)
+- [iPython/Jupyter File](https://raw.githubusercontent.com/kuikala/DataSamples/main/priceacq.ipynb)  
+- [Google Colab link*](https://github.com/kuikala/DataSamples/blob/main/priceacq.ipynb)
 ## [Technical/Product Documentation Sample] ()
+
+*Google Colab-Github integration is still in Beta and may need to be reloaded in order to work. 
 
 ## Notes
 
