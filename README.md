@@ -5,8 +5,7 @@
 
 ## Notes
 
-### Jupyter Based Code Example
-The data for this project was sourced from:
+The data for the Jupyter Based Code Example was sourced from:
 - price data: -- make this a link to the google sheet --, price data retrieved using the `googlefinance` function: https://support.google.com/docs/answer/3093281?hl=e
 - acquisition data: https://www.kaggle.com/shivamb/company-acquisitions-7-top-companies 
 
