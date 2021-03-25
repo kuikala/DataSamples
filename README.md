@@ -1,23 +1,15 @@
-# DataSamples
+# Sample Projects
 
-## Links to actual deliverables
+## [Jupyter Based Code Example](https://github.com/kuikala/DataSamples/blob/main/priceacq.ipynb)
+## [Technical/Product Documentation Sample] ()
 
 ## Notes
 
-### Data Used
-The data for this projeect was retrieved from:
-- acquisition data: https://www.kaggle.com/shivamb/company-acquisitions-7-top-companies (edited sheet available: -- link to google sheet -- )
+### Jupyter Based Code Example
+The data for this project was sourced from:
 - price data: -- make this a link to the google sheet --, price data retrieved using the `googlefinance` function: https://support.google.com/docs/answer/3093281?hl=e
+- acquisition data: https://www.kaggle.com/shivamb/company-acquisitions-7-top-companies 
 
-Acqusition data was edited in Google Sheets, including the following changes: 
-- Acquisitions were filtered to include those after January 1, 2013, for Facebook and Google/Alphabet only
-- A date value field was added to combine Month, Day and Year to make consistent with the price data format
-- If a date did not include a day of the month, it was updated to be the first of the month, if a month was not included the acquistion was not included in the analysis. 
-
- 
-### Tools Used
-- https://jupyter.org
-- https://colab.research.google.com/notebooks/intro.ipynb
-- https://pandas.pydata.org
-- https://numpy.org
-- https://matplotlib.org
+The files used can be downloaded here: 
+- [price data](https://github.com/kuikala/DataSamples/blob/main/pricedata.csv)
+- [acquisition data](https://github.com/kuikala/DataSamples/blob/main/acquisitions.csv)
