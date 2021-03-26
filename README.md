@@ -4,7 +4,10 @@
 - [PDF of Output](https://github.com/kuikala/DataSamples/raw/main/priceacq.pdf)
 - [iPython/Jupyter File](https://raw.githubusercontent.com/kuikala/DataSamples/main/priceacq.ipynb)  
 - [Google Colab link*](https://github.com/kuikala/DataSamples/blob/main/priceacq.ipynb)
-## [Technical/Product Documentation Sample] ()
+## Technical/Product Documentation Sample:
+- [PDF of Output](https://github.com/kuikala/DataSamples/raw/main/intro_dataframes.pdf)
+- [iPython/Jupyter File](https://raw.githubusercontent.com/kuikala/DataSamples/main/dataframes.ipynb)  
+- [Google Colab link*](https://github.com/kuikala/DataSamples/blob/main/dataframes.ipynb)
 
 *Google Colab-Github integration is still in Beta and may need to be reloaded in order to work. 
 
